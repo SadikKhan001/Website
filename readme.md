@@ -27,7 +27,6 @@ container {
 ```
 
 
---------|--------|
-hello | hi |
-how | hsdfsdfsd|
-
+| hello | hi       |
+|-------|----------|
+| how   | hsdfsdfsd|
