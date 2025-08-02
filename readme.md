@@ -13,3 +13,21 @@ console.log(me)
 
 
 ```
+
+---
+
+2. ye css work kyu nahi kar rhi h
+
+```css
+
+container {
+    color: red;
+}
+
+```
+
+
+--------|--------|
+hello | hi |
+how | hsdfsdfsd|
+
