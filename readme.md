@@ -1,21 +1,15 @@
-# My project
-## MY project
-### MY project
-#### MY project
-`My project`
 
-
+## 1. problem 1 - ye error kyu raha h
 
 ```js
-console.log('hellow`);
+
+const me = {
+    name: 'dfjsldfjsdl'
+    age: 123
+    hobbies: ['sdfsdf', 'sdfsdfs', 'sdfsdf', 'dsfsdf']
+}
+
+console.log(me)
+
 
 ```
----
-
-```python
-print('hello')
-
-```
-
-
-`this is a message to you`
